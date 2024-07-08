@@ -8,17 +8,22 @@ Boston house pricing prediction | End to End ML Project
 3. Heroku
 4. GitCLI
 
+git clone https://github.com/rakshithnv/boston_house_pricing.git
 
-Created a virtual envoironment in VSCode
+##Creat a virtual envoironment in VSCode
 python3 -m venv myenv
 myenv\Scripts\activate
 python3.7 -m venv myenv
 
 C:\Users\RAKSHITH\AppData\Local\Programs\Python\Python37\python.exe -m venv myenv
 
-Intall requirements.txt
+Install requirements.txt
 pip install -r requirements.txt
 
 
 Configure Git
 git config --global user.name
+git add . ### added all files to got stage
+git commit -m "commit all files"
+
+git push origin main 

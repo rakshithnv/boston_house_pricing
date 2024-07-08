@@ -27,3 +27,9 @@ git add . ### added all files to got stage
 git commit -m "commit all files"
 
 git push origin main 
+
+## after creating all the code
+push codes to git
+
+##  create a proc file for heroku
+
